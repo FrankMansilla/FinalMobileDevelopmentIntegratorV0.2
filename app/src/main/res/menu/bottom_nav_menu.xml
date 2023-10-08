@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_buy"
+        android:title="@string/Buy"
+        android:icon="@drawable/ic_buy" />
+    <item
+        android:id="@+id/action_information"
+        android:title="@string/Info"
+        android:icon="@drawable/ic_information" />
+    <item
+        android:id="@+id/action_profile"
+        android:title="@string/Profile"
+        android:icon="@drawable/ic_profile" />
+    <item
+        android:id="@+id/action_my_trips"
+        android:title="@string/MyTrips"
+        android:icon="@drawable/ic_trips" />
+</menu>

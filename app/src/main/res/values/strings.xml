@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Final Mobile Development Integrator V0.2</string>
+    <string name="Title">BLUE LABEL AIRLINES</string>
+    <string name="Getin">Get In</string>
+    <string name="Buy">Buy</string>
+    <string name="Info">Information</string>
+    <string name="Profile">Profile</string>
+    <string name="MyTrips">My Trips</string>
+    <string name="LogOut">Log Out</string>
+
+    <string name="Background">BLUE LABEL AIRLINES</string>
+
+
+
+</resources>
